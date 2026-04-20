@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atma&weight=700&size=27&pause=1003&color=22B8F7&width=435&lines=OH+JUN+HYEOK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atma&weight=700&size=27&pause=1003&color=F7E605E3&width=435&lines=OH+JUN+HYEOK)](https://git.io/typing-svg)
 <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div> <a href=https://티 스 토 리 주 소> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://티 스 토 리 주 소"> </a>
