@@ -41,10 +41,10 @@
 ### :card_file_box: Projects
 | Year | Project | Link |
 | :---: | :---: | :---: |
-| 2025 | 제주 여행 추천 플랫폼 | [Link](https://github.com/fall-in-jeju/be-server) |
-| 2025 | 개인 도서관 운영 서비스 | [Link](https://github.com/Parkyuchan/suso) |
-| 2025 | 도전과 성장 기반의 맞춤형 루틴 관리 플랫폼 | [Link](https://github.com/Parkyuchan/Multi) |
-| 2025 | 영화 큐레이션 및 스마트 검색 플랫폼 | [Link](https://github.com/Parkyuchan/finalhihu) |
+| 2025 | 제주 여행 추천 플랫폼 | [Link](https://github.com/fall-in-jeju) |
+| 2025 | 개인 도서관 운영 서비스 | [Link](https://github.com/team-bookbook) |
+| 2025 | 도전과 성장 기반의 맞춤형 루틴 관리 플랫폼 | [Link](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GCC_BE/tree/mock) |
+| 2025 | 영화 큐레이션 및 스마트 검색 플랫폼 | [Link](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team02) |
 ---
 
 ### :chart_with_upwards_trend: Once I've used
