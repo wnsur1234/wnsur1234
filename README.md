@@ -5,10 +5,10 @@
 
 저는 단순히 기능을 구현하는 데서 그치지 않고, 시스템의 병목을 해결하고 데이터가 안전하고 빠르게 전달되는 구조를 만드는 데 집중합니다.
 
-- 🔌 Real-time: WebSocket을 활용한 안정적인 실시간 통신 환경 구축
-- ☁️ Cloud & AI: AWS DynamoDB 설계 및 AI Agent Core 연동을 통한 MLOps 흐름 경험
-- 📊 Data Optimization: JPA / QueryDSL을 활용한 복잡한 쿼리 최적화 및 타입 안정성 확보
-- 🗄️ Polyglot Persistence: Neo4j, Redis, MongoDB 등 비즈니스 요구사항에 최적화된 저장소 활용
+- 🔌 Real-time : WebSocket을 활용한 안정적인 실시간 통신 환경 구축
+- ☁️ Cloud & AI : AWS DynamoDB 설계 및 AI Agent Core 연동을 통한 MLOps 흐름 경험
+- 📊 Data Optimization : JPA / QueryDSL을 활용한 복잡한 쿼리 최적화 및 타입 안정성 확보
+- 🗄️ Polyglot Persistence : Neo4j, Redis, MongoDB 등 비즈니스 요구사항에 최적화된 저장소 활용
 
 개발부터 운영, 그리고 AI 모델 연동까지 이어지는 흐름을 경험하며 탄탄한 백엔드 엔지니어로 성장하고 있습니다.
 
