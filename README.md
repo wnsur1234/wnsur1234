@@ -62,4 +62,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=adv1234)](https://solved.ac/adv1234)
 ---
-![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wnsur1234&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsur1234&show_icons=true&theme=great-gatsby)
